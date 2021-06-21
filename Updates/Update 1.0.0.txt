@@ -1,0 +1,32 @@
+UPDATE 1.0.0
+=================================
+
+Server: Typical PoliceRP
+Date: June 20th 2021
+Update Time: 10:43 EST
+
+=================================
+
+
+
+Update Data:
+
+Changes:
+- Map Selection ..... COMPLETED
+- Vehicle Spawms ..... COMPLETED
+
+Additions:
+- Methlab 2.0
+- rPhones
+- Cosmo (Web Based)
+
+
+
+More To Come
+
+
+
+
+
+UPDATE 1.0.0 COMMITTED TO GITHUB
+
