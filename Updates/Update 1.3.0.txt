@@ -1,0 +1,34 @@
+UPDATE 1.3.0
+=================================
+
+Server: Typical PoliceRP
+Date: July 7th 2021
+Update Time: 14:08 EST
+
+=================================
+
+
+
+Update Data:
+
+Changes:
+- Zeros Methlab ..... COMPLETED
+- Zeros Grow OP ..... COMPLETED
+- job.lua ..... COMPLETED
+- policerp (Salary) ..... COMPLETED
+
+Additions:
+- SAM 137
+
+
+
+Next Update (1.4.0)
+- shipments.lua
+- Car Dealers
+
+
+
+
+
+UPDATE 1.3.0 COMMITTED TO GITHUB
+
